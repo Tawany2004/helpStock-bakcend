@@ -1,3 +1,3 @@
 # helpStock-bakcend
 Sistema de backend para sistematização de Clean Architecture com uso SQL Server e .NET Core
-## Tawany VR de Oliveira
+## Tawany V.R de Oliveira
